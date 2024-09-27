@@ -1,0 +1,14 @@
+site_name: Firmware HQ
+site_description: Documentation of the Firmware HQ SDK
+edit_uri: https://github.com/Firmware-HQ/Firmware-HQ/blob/documentation/docs/
+theme: 
+  name: readthedocs
+  analytics:
+    gtag: G-GPW4XBJ70J
+nav:
+  - index.md
+markdown_extensions:
+  - toc:
+      permalink: ""
+      baselevel: 2
+      separator: "_"
