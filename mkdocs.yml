@@ -1,6 +1,6 @@
 site_name: Firmware HQ
 site_description: Documentation of the Firmware HQ SDK
-edit_uri: https://github.com/Firmware-HQ/Firmware-HQ/blob/documentation/docs/
+edit_uri: https://github.com/Firmware-HQ/Firmware-HQ/blob/main/docs/
 theme: 
   name: readthedocs
   analytics:
