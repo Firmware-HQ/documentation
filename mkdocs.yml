@@ -4,7 +4,7 @@ edit_uri: https://github.com/Firmware-HQ/Firmware-HQ/blob/documentation/docs/
 theme: 
   name: readthedocs
   analytics:
-    gtag: G-GPW4XBJ70J
+    gtag: G-CLYDY54S4B
 nav:
   - index.md
 markdown_extensions:
