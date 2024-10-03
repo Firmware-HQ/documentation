@@ -1,5 +1,7 @@
 site_name: Firmware HQ
+site_author: Firmware HQ
 site_description: Documentation of the Firmware HQ SDK
+copyright: © 2024, Firmware HQ
 edit_uri: https://github.com/Firmware-HQ/Firmware-HQ/blob/main/docs/
 theme: 
   name: readthedocs
@@ -8,7 +10,13 @@ theme:
 nav:
   - index.md
 markdown_extensions:
+  - smarty
   - toc:
       permalink: ""
       baselevel: 2
       separator: "_"
+validation:
+  omitted_files: warn
+  absolute_links: warn  # Or 'relative_to_docs' - new in MkDocs 1.6
+  unrecognized_links: warn
+  anchors: warn  # New in MkDocs 1.6
