@@ -7,6 +7,7 @@ theme:
   name: readthedocs
   analytics:
     gtag: G-CLYDY54S4B
+strict: true
 nav:
   - index.md
 markdown_extensions:
